@@ -1,0 +1,17 @@
+#MainImage{
+    position: relative;
+    border-color: black;
+    border-style: double;
+    border-width: 5px;
+    top: 50px;
+}
+
+.download{
+    position: relative;
+    top: 50px;
+}
+
+.delete{
+    position: relative;
+    top: 60px;
+}
