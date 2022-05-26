@@ -10,7 +10,6 @@ function App() {
           <NavbarComp/>
           <div className='NavBAR'>
           <Routes>
-            {/* <Route path='/TakeAttendance' element={<TakeAttendance/>}/> */}
             <Route path='/' element={<Home/>}/>
           </Routes>
           </div>
