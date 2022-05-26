@@ -1,1 +1,5 @@
 /Frontend/node_modules
+/Backend/__pycache__
+/Backend/flask_env
+/Backend/Images/Sudhamsh.jpg
+/Frontend/.gitignore
