@@ -9,6 +9,8 @@
 First
 `cd Backend`
 
+`sudo apt-get install python3-venv`
+
 Run this command to create a python virtual environment
 `python3 -m venv flask_env`
 
