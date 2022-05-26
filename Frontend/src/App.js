@@ -2,7 +2,6 @@ import './App.css';
 import NavbarComp from './components/NavbarComp';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes } from 'react-router-dom';
-import TakeAttendance from './components/TakeAttendance';
 import Home from './components/Home';
 
 function App() {
@@ -11,7 +10,7 @@ function App() {
           <NavbarComp/>
           <div className='NavBAR'>
           <Routes>
-            <Route path='/TakeAttendance' element={<TakeAttendance/>}/>
+            {/* <Route path='/TakeAttendance' element={<TakeAttendance/>}/> */}
             <Route path='/' element={<Home/>}/>
           </Routes>
           </div>
